@@ -31,7 +31,7 @@ noButton2.addEventListener('mouseover', function() {
 
 yesButton2.addEventListener('click', function() {
     const img = document.createElement('img');
-    img.src = '/img_four.jpg';  // Reemplaza con la URL de la imagen que deseas mostrar.
+    img.src = '//img_four.jpg';  // Reemplaza con la URL de la imagen que deseas mostrar.
     img.style.maxWidth = '50%';
     img.style.borderRadius = '10px';
 
